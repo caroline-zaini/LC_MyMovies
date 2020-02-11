@@ -26,3 +26,4 @@
   
   npm start
  
+  then choose another port
