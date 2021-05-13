@@ -20,7 +20,7 @@
 
   http://localhost:3000
   
-## the frondend (reactJS)
+## the frontend (reactJS)
 
   npm install --global create-react-app
   
