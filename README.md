@@ -10,6 +10,8 @@
 
 ## the backend  (expressJS) :
 
+  use API : themoviedb
+
   npm install
 
   npm install sync-request --save
